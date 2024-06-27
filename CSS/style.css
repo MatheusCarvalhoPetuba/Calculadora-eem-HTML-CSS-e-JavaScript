@@ -57,6 +57,9 @@ body {
   background-color: #e4e4e4;
   cursor: pointer;
 }
+.buttons-conteiner button:active {
+  transform: scale(0.95);
+}
 .buttons-conteiner .number {
   background-color: #f1f1f1;
 }
